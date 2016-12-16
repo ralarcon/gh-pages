@@ -1,2 +1,2 @@
-# gh-pages
-# ejemplo
+# Formula ReadMe!
+## Sample to show how to use this formula!
